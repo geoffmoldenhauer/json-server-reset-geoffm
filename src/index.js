@@ -1,4 +1,4 @@
-const debug = require('debug')('json-server-reset')
+const debug = require('debug')('json-server-reset-geoffm')
 
 // adds /reset route to your json-server
 // to use execute POST /reset <JSON state>
